@@ -19,3 +19,4 @@ public class PrintSumOfNumbers {
         System.out.println("total Sum is : "+ sum);
     }
 }
+
